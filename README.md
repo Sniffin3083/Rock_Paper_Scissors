@@ -1,5 +1,5 @@
 # Rock_Paper_Scissors
-Uses the HTTP module to run a randomly generated Rock Paper Scissors game. Project created with the help of Codecademy
+Uses the HTTP module to run a randomly generated Rock Paper Scissors game
 
 ## How to run
 1. Clone the repository locally and open the index.html file
